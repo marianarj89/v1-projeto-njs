@@ -1,0 +1,21 @@
+/* Cores: 
+#1D1D1D - cinza escuro
+#BFBFBF - cinza médio
+#D31255 - rosa escuro logo
+#F04F9F - rosa claro logo
+#01A7C2 - azul alt
+#111827 - cinza escuro 2 */
+
+.logo {
+  max-width: 120px;
+  height: auto;
+  margin-right: 10px;
+  margin: 20px;
+}
+
+.loginButton {
+  color: #D31255;
+  text-decoration: none;
+
+}
+

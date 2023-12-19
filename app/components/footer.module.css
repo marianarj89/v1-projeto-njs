@@ -1,0 +1,47 @@
+/* Cores: 
+#1D1D1D - cinza escuro
+#BFBFBF - cinza médio
+#D31255 - rosa escuro logo
+#F04F9F - rosa claro logo
+#01A7C2 - azul alt
+#111827 - cinza escuro 2 */
+
+.footer {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  text-align: center;
+  grid-area: footer;
+}
+
+.nav {
+  color: #d31255;
+  text-decoration: none;
+  list-style: none;
+  display: flex;
+  padding: 10px;
+  margin: 20px;
+  align-items: center; 
+}
+
+.nav-item {
+  color: #d31255;
+  text-decoration: none;
+  padding: 30px;
+  margin-right: 10px;
+}
+
+.nav-link {
+  color: #d31255;
+  text-decoration: none;
+  padding: 30px;
+  padding: 5px 10px;
+}
+
+.logo {
+  max-width: 120px;
+  height: auto;
+  margin-right: 10px;
+  margin: 20px;
+}
